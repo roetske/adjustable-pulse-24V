@@ -5,8 +5,9 @@ I am a technician. On installations 24v is the standard for inputs.  <br />
 Sometimes it is helpful to make a blinker 24v to test the input and then you can see  <br />
 or check on plc or io island.  <br />
 The first one i made was with 555 fix pulse but i wanted faster pulse this was not possible in the range i wanted. <br />
-(yes add potentiometer)  <br />
+(yes add potentiometer but circuit was already made and implementing the potentiometer was not ideal)  <br />
 I made this little project using nano ,oled with 2 potentiometers and confirm button.  <br />
+The nano allows you to have flexible timing more than with 555.<br />
 So i can choose set my timing whatever i want.<br />
 
 # How does it work
