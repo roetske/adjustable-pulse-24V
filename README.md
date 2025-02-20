@@ -7,7 +7,8 @@ or check on plc or io island.  <br />
 The first one i made was with 555 fix pulse but was wanted faster pulse this was not possible in the range i wanted. <br />
 (yes add potentiometer)  <br />
 i made this little project using nano and oled with 2 potentiometers and confirm button.  <br />
-#How does it work
+
+# How does it work
 you connect power with m12 4 pins connector at one end and you connect the power to the 3 port terminal  <br />
 brown 24v  <br />
 blue 0v  <br />
@@ -17,8 +18,9 @@ you set on an off time of your choosing and than validate with the pusbutton <br
 The yellow led will start blinking at the rate you want <br />
 And the 24v output will be switched to the pulse you set <br />
 I put a scope on it the timing is pretty accurate lol  <br />
+I set the timing choice to 0-2 s for on time en 0-1 s for offtime <br />
 
-#components
+# components
 nano  <br />
 2 potentiometers  <br />
 oled 0.91 inch 164x32  <br />
