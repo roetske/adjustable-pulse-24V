@@ -4,9 +4,10 @@ make pulses adjustabale on 0-2s off 0-1s
 I am a technician. On installations 24v is the standard for inputs.  <br />
 Sometimes it is helpful to make a blinker 24v to test the input and then you can see  <br />
 or check on plc or io island.  <br />
-The first one i made was with 555 fix pulse but was wanted faster pulse this was not possible in the range i wanted. <br />
+The first one i made was with 555 fix pulse but i wanted faster pulse this was not possible in the range i wanted. <br />
 (yes add potentiometer)  <br />
-i made this little project using nano and oled with 2 potentiometers and confirm button.  <br />
+I made this little project using nano ,oled with 2 potentiometers and confirm button.  <br />
+So i can choose set my timing whatever i want.<br />
 
 # How does it work
 you connect power with m12 4 pins connector at one end and you connect the power to the 3 port terminal  <br />
