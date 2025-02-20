@@ -33,6 +33,11 @@ bc327  <br />
 1k resistor  <br />
 diode 1n4007  <br />
 yellow led  <br />
+dcdc converter 6v output <br />
+
+# Remark
+
+Firts time i powered the nano with 5V in Vin. Nok nano was not working properly. I found on the net you should use at least 6V for Vin. If you have only 5V available you should connect directly to 5V pin on the nano.
 2 pcb 50mmx70mm  <br />
 3port screw terminal pitch5  <br />
 m2 distance spacers  <br />
