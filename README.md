@@ -44,7 +44,7 @@ ptc fuse 0.5 A  <br />
 
 Firts time i powered the nano with 5V in Vin. <br />
 Nok nano was not working properly. I found on the net you should use at least 6V for Vin. <br />
-This due to voltage loss by the regualor in the nano <br />
+This due to voltage loss by the regulator in the nano <br />
 If you have only 5V available you should connect directly to 5V pin on the nano.<br />
 
 
